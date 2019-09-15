@@ -1,0 +1,17 @@
+{
+  "coachs": {
+    "1": {
+      "id": 1 ,
+      "name": "KickBoxing" ,
+      "coach": {
+        "1" : {
+          "coachid" : 1,
+          "Name" : "Albert testowy",
+          "mounthTrening" : [
+            "1-2.09"
+          ]
+        }
+      }
+    }
+  }
+}
